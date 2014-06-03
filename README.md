@@ -8,12 +8,12 @@ http://meieraha.github.io/budgets
 
 ### Add new data
 
-  1. Create new datafile under data directory:
-  ```
-  touch data/mycity_spending_2014.yml
-  ```
+  1. Create new datafile under data directory, like ```data/mycity_spending_2014.yml```
+  
   2. Fill the file with data (see existing datafiles how to format it)  
+  
   3. Edit ```data/index.yml``` file and add following lines:
+  
   ```
   - title: "My city spending"
     file: data/mycity_spending_2014.yml
