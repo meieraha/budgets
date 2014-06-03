@@ -1,0 +1,13 @@
+- title: "Tallinna kulud"
+  file: data/tallinn_kulud_2014.yml
+- title: "Tallinna tulud"
+  file: data/tallinn_tulud_2014.yml
+- title: "Tartu kulud"
+  file: data/tartu_kulud_2014.yml
+- title: "Tartu tulud"
+  file: data/tartu_tulud_2014.yml
+- title: "Kuressaare kulud"
+  file: data/kuressaare_kulud_2014.yml
+- title: "Kuressaare tulud"
+  file: data/kuressaare_tulud_2014.yml
+  

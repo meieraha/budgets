@@ -1,0 +1,72 @@
+---
+  label: "Kuressaare eelarve 2014: tulud kokku"
+  amount: 15494279
+  children: 
+    - label: "Põhitegevuse tulud"
+      amount: 10979126
+      color: "#c44"
+      children: 
+        - label: "Maksud"
+          amount: 8395000
+          children: 
+            - label: "Füüsilise isiku tulumaks"
+              amount: 8096000
+            - label: "Maamaks"
+              amount: 291000
+            - label: "Reklaamimaks"
+              amount: 5000
+            - label: "Teede ja tänavate sulgemise maks"
+              amount: 3000
+        - label: "Kaupade ja teenuste müük"
+          amount: 2372266
+          children: 
+            - label: "Riigilõivud"
+              amount: 12782
+            - label: "Laekumised haridusasutuste majandustegevusest"
+              amount: 1923012
+            - label: "Laekumised kultuuri- ja kunstiasutuste majandustegevusest"
+              amount: 196034
+            - label: "Laekumised spordi- ja puhkeasutuste majandustegevusest"
+              amount: 49283
+            - label: "Laekumised elamu- ja kommunaalasutuste majandustegevusest"
+              amount: 27333
+            - label: "Laekumised üldvalitsemisasutuste majandustegevusest"
+              amount: 10558
+            - label: "Üüri- ja renditulud"
+              amount: 98742
+            - label: "Laekumised õiguste müügist"
+              amount: 21529
+            - label: "Muude kaupade ja teenuste müük"
+              amount: 32993
+        - label: "Toetused"
+          amount: 168409
+          children: 
+            - label: "Sihtotstarbelised toetused jooksvateks kuludeks"
+              amount: 25882
+            - label: "Mittesihtotstarbelised toetused"
+              amount: 142527
+        - label: "Muud tulud"
+          amount: 43451
+          children: 
+            - label: "Rendi- ja üüritulud mittetoodetud põhivaradelt (vee erikasutus)"
+              amount: 4500
+            - label: "Saastetasud ja keskkonnale tekitatud kahju hüvitus"
+              amount: 23508
+            - label: "Eespool nimetamata muud tulud"
+              amount: 15443
+    - label: "Investeerimistegevuse tulud"
+      amount: 1060223
+      color: "#c4c"
+      children: 
+        - label: "Põhivara soetuseks saadav sihtfinantseerimine"
+          amount: 833223
+        - label: "Põhivara müük"
+          amount: 225000
+        - label: "Finantstulud: Intressi ja viivisetulud"
+          amount: 2000
+    - label: "Finantseerimistegevus: kohustuste võtmine"
+      amount: 3000000
+      color: "#44c"
+    - label: "Likviidsete varade muutus"
+      amount: 454930
+      color: "#4cc"

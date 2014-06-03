@@ -1,0 +1,9 @@
+label: "Tartu eelarve 2014: tulud kokku"
+amount: 122018383
+children: 
+  - label: "Põhitegevus"
+    amount:  104426944
+    color: "#c44"
+  - label: "Investeerimistegevus"
+    amount: 17591439
+    color: "#44c"

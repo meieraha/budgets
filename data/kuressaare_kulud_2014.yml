@@ -1,0 +1,161 @@
+---
+label: "Kuressaare eelarve 2014: kulud kokku"
+amount: 15494279
+children: 
+  - label: "Põhitegevus"
+    amount: 9514392
+    color: "#c44"
+    children: 
+    - label: "Üldised valitsussektori teenused"
+      amount: 1536071
+      children: 
+      - label: "Linnavolikogu"
+        amount: 56513
+      - label: "Linnavalitsus"
+        amount: 1246204
+      - label: "Reservfond"
+        amount: 224000
+      - label: "Muud üldised teenused: eraldised liikmemaksudeks"
+        amount: 9354
+      - label: "Avalik kord ja julgeolek"
+        amount: 21340
+      - label: "Majandus"
+        amount: 483651
+        children: 
+          - label: "Maanteetransport"
+            amount: 222796
+          - label: "Turismi infopunkt"
+            amount: 55069
+          - label: "Kuressaare sadam"
+            amount: 39532
+          - label: "Majandusalaste tegevuste planeerimine"
+            amount: 25151
+          - label: "Majandusalaste tegevuste haldamine"
+            amount: 141103
+    - label: "Keskkonnakaitse"
+      amount: 63573
+      children: 
+        - label: "Jäätmekäitlus"
+          amount: 23508
+        - label: "Heitveekäitlus"
+          amount: 32076
+        - label: "Bioloogilise mitmekesisuse ja maastiku kaitse"
+          amount: 7989
+    - label: "Elamu- ja kommunaalmajandus"
+      amount: 766419
+      children: 
+        - label: "Kuressaare Linnamajandus"
+          amount: 515572
+        - label: "Tänavavalgustus"
+          amount: 236647
+        - label: "Elamu- ja kommunaalmajanduse haldamine"
+          amount: 14200
+    - label: "Vaba aeg, kultuur ja religioon"
+      amount: 1756696
+      children: 
+        - label: "Saaremaa Spordikool"
+          amount: 140629
+        - label: "SA Kuressaare Spordibaasid"
+          amount: 189127
+        - label: "Spordiklubide tegevustoetus"
+          amount: 22370
+        - label: "Kuressaare Muusikakool"
+          amount: 364070
+        - label: "Kuressaare Kunstikool"
+          amount: 57502
+        - label: "Kuressaare Noorte Huvikeskus"
+          amount: 141706
+        - label: "Vabaaja- ja spordiüritused"
+          amount: 58418
+        - label: "Saare Maakonna Keskraamatukogu"
+          amount: 282593
+        - label: "Kuressaare Linnateater"
+          amount: 182789
+        - label: "Kultuuritöö korraldus"
+          amount: 46709
+        - label: "Noosootöö korraldus"
+          amount: 13145
+        - label: "Kuressaare Kultuurivara"
+          amount: 257638
+    - label: "Haridus"
+      amount: 4410127
+      children: 
+        - label: "Kuressaare Pargi Lasteaed"
+          amount: 278523
+        - label: "Kuressaare Rohu Lasteaed"
+          amount: 489858
+        - label: "Kuresssaare Ristiku Lasteaed"
+          amount: 523358
+        - label: "Kuressaare Tuulte Roosi Lasteaed"
+          amount: 342370
+        - label: "Kuressaare Ida-Niidu Lasteaed"
+          amount: 558237
+        - label: "Eralasteaedade kaasfinantseerimine"
+          amount: 121531
+        - label: "Teistele omavalitsustele tegevuskulude katmine"
+          amount: 42000
+        - label: "Kuressaare Vanalinna Kool"
+          amount: 233088
+        - label: "Teistele omavalitsustele tegevuskulude katmine"
+          amount: 40000
+        - label: "Saaremaa Ühisgümnaasium"
+          amount: 680061
+        - label: "Kuressaare Gümnaasium"
+          amount: 880613
+        - label: "Kuressaare Täiskasvanute Gümnaasium"
+          amount: 125262
+        - label: "Kõrgkoolid"
+          amount: 9139
+        - label: "Õpilasveo eriliinid"
+          amount: 1600
+        - label: "Hariduskorraldus"
+          amount: 82987
+        - label: "Õppenõustamissüsteem"
+          amount: 1500
+    - label: "Sotsiaalne kaitse"
+      amount: 476515
+      children: 
+        - label: "Haigete sotsiaalne kaitse"
+          amount: 1900
+        - label: "Muu puuetega inimeste sotsiaalne kaitse"
+          amount: 34700
+        - label: "Muu eakate sotsiaalne kaitse"
+          amount: 70000
+        - label: "Muu perekondade ja laste sotsiaalne kaitse"
+          amount: 176400
+        - label: "SA Kuressaare Hoolekanne"
+          amount: 193515
+  - label: "Finantseerimistegevus"
+    amount: 1576631
+    color: "#4c4"
+    children: 
+      - label: "Valitsussektori võla teenindamine: laenude põhiosa tagasimaksed"
+        amount: 1483524
+      - label: "Kuressaare Linnamajandus: kapitaliliisingu maksed"
+        amount: 93107
+  - label: "Investeerimistegevus"
+    amount: 4403256
+    color: "#44c"
+    children: 
+      - label: "Põhivara soetus"
+        amount: 3956527
+        children: 
+          - label: "Maanteetranspordi investeeringud"
+            amount: 222339
+          - label: "Üldmajanduslikud investeeringud"
+            amount: 200000
+          - label: "Spordi investeeringud"
+            amount: 415648
+          - label: "Kuressaare Noorte Huvikeskus"
+            amount: 225000
+          - label: "Lasteaedade investeeringud"
+            amount: 2893540
+      - label: "Põhivara soetuseks antav sihtfinantseerimine"
+        amount: 314186
+      - label: "Finantskulud"
+        amount: 314186
+        children: 
+          - label: "Valitsussektori võla teenindamine: Võetud laenude intressid"
+            amount: 125650
+          - label: "Kuressaare Linnamajandus: Kapitaliliisingu intressid"
+            amount: 6893

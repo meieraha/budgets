@@ -1,0 +1,14 @@
+{
+  "name": "eelarve",
+  "version": "0.0.0",
+  "description": "",
+  "dependencies": {
+    "yaml-js": "~0.0.8"
+  },
+  "scripts": {
+    "install": "napa okfn/bubbletree"
+  },
+  "devDependencies": {
+    "napa": "~0.4.1"
+  }
+}
